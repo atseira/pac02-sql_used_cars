@@ -1,0 +1,3 @@
+*.backup
+*.xlsx
+__pycache__
