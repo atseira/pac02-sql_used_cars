@@ -90,7 +90,7 @@ Dimulai dari table `cities` yang hanya dirujuk oleh `users`. User lalu dapat mem
 
 
 # Dummy data
-Bisa langsung gunakan backup database yang tersedia atau untuk generate sendiri dummy data secara random, bisa masuk ke folder dummy-data dan eksekusi menggunakan `python` file-file `.py` dengan urutan sesuai yang ada di file `generate-dummies.ps1`:
+Bisa langsung gunakan backup database yang tersedia (`dummy-data/pac02-dummy.sql`) atau untuk generate sendiri dummy data secara random, bisa masuk ke folder dummy-data dan eksekusi menggunakan `python` file-file `.py` dengan urutan sesuai yang ada di file `generate-dummies.ps1`:
 ```
 py gen_dummy_users.py
 py gen_dummy_ads.py
