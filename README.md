@@ -389,5 +389,7 @@ ORDER BY yb.bid_date;
 ```
 ![Analytical 5](images/01-05.png)
 
-# Meta
-Repo link: https://github.com/atseira/pac02-sql_used_cars
+# Tautan
+Link repository: https://github.com/atseira/pac02-sql_used_cars
+
+Link video: https://youtu.be/U_P3SFBR3U4
