@@ -1,3 +1,4 @@
 *.backup
 *.xlsx
 __pycache__
+db_secrets.py
