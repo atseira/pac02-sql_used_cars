@@ -1,6 +1,9 @@
 # Latar belakang
 Ini adalah relational database untuk sebuah website yang menawarkan penjualan mobil bekas. Siapa saja dapat menawarkan produknya (mobil bekas) dalam bentuk iklan dan calon pembeli dapat melakukan pencarian berdasarkan beberapa kategori.
 
+# Link video
+https://youtu.be/U_P3SFBR3U4
+
 # Kebutuhan
 1. Setiap user dapat menawarkan lebih dari satu produk mobil bekasnya.
 2. Sebelum menjual produk mobil, user harus melengkapi data dirinya terlebih dahulu, seperti nama, kontak, dan domisili lokasi.
@@ -389,7 +392,3 @@ ORDER BY yb.bid_date;
 ```
 ![Analytical 5](images/01-05.png)
 
-# Tautan
-Link repository: https://github.com/atseira/pac02-sql_used_cars
-
-Link video: https://youtu.be/U_P3SFBR3U4
